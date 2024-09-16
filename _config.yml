@@ -8,7 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
+title                    : "Nauman Ali Murad"
 title_separator          : "-"
+name                     : &name "Nauman Ali Murad"
 description              : &description "personal description"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -26,7 +28,7 @@ author:
   location         : "Earth"
   employer         : "Red Brick University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "naumanmurad@outlook.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
